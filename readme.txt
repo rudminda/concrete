@@ -1,2 +1,2 @@
 Author: MisterE
-Platform: MineTest
+Platform: MineTest (not MineCraft)
